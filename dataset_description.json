@@ -1,0 +1,17 @@
+{
+    "Name": "Photometry data underlying the analyses in Chantranupong PMID: 37557915",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "The photometry and associated behavioral data recorded in the striatum of mice performing a freely moving water-motivated 2-armed bandit task.  Recordings of acetylcholine, dopamine, and GCAMP.  Many simultaneous Ach and DA recordings.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC0-1.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.11.2.dev15+g782176cb1",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
