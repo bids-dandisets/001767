@@ -32,7 +32,7 @@ assetsSummary:
   - BehavioralTimeSeries
   - ProcessingModule
 citation: 'Sabatini, Bernardo (2026) Photometry data underlying the analyses in Chantranupong
-  PMID: 37557915 (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001767/draft'
+  PMID: 37557915 (Version 0.260318.1448) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001767/0.260318.1448'
 contributor:
 - affiliation: []
   email: bsabatini@hms.harvard.edu
@@ -42,21 +42,35 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2026-03-18T13:19:14.482486+00:00'
+datePublished: '2026-03-18T14:48:16.272132+00:00'
 description: The photometry and associated behavioral data recorded in the striatum
   of mice performing a freely moving water-motivated 2-armed bandit task.  Recordings
   of acetylcholine, dopamine, and GCAMP.  Many simultaneous Ach and DA recordings.
+doi: 10.48324/dandi.001767/0.260318.1448
 ethicsApproval: []
-id: DANDI:001767/draft
+id: DANDI:001767/0.260318.1448
 identifier: DANDI:001767
 keywords:
 - mouse, photometry, dopamine, acetylcholine, striatum
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001767/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001767/0.260318.1448/assets.yaml
 name: 'Photometry data underlying the analyses in Chantranupong PMID: 37557915'
 protocol:
 - https://doi.org/10.1038/s41586-023-06492-9
+publishedBy:
+  endDate: '2026-03-18T14:48:16.272132+00:00'
+  id: urn:uuid:12f52584-de30-48db-a246-22b3653805ab
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-03-18T14:48:16.272132+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6b70ab43-98d6-462a-a52f-dbfa086a224f
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1038/s41586-023-06492-9
   name: Dopamine and glutamate regulate striatal acetylcholine in decision-making
@@ -76,6 +90,6 @@ schemaVersion: 0.7.0
 studyTarget:
 - Understand the relationship between dopamine and acetylcholine signalling in the
   striatum
-url: https://dandiarchive.org/dandiset/001767/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001767/0.260318.1448
+version: 0.260318.1448
 wasGeneratedBy: []
