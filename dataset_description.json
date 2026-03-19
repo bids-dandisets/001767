@@ -9,7 +9,7 @@
     "GeneratedBy": [
         {
             "Name": "nwb2bids",
-            "Version": "0.11.2.dev15+g782176cb1",
+            "Version": "0.11.2.dev19+gad419ea41",
             "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
             "CodeURL": "https://github.com/con/nwb2bids"
         }
