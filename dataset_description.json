@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "The photometry and associated behavioral data recorded in the striatum of mice performing a freely moving water-motivated 2-armed bandit task.  Recordings of acetylcholine, dopamine, and GCAMP.  Many simultaneous Ach and DA recordings.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Sabatini, Bernardo"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
